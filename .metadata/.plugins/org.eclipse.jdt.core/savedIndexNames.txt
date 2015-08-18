@@ -1,2 +1,0 @@
-INDEX VERSION 1.126+E:\Data\Workspaces\Eclipse\Appnovation\.metadata\.plugins\org.eclipse.jdt.core
-715550026.index
